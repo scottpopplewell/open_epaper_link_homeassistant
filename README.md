@@ -105,18 +105,12 @@ If a template with a numeric sensor value still does not work, try appending a n
 ### If you use [HACS](https://hacs.xyz/):
 
 1. Click on HACS in the Home Assistant menu
-2. Click on the 3 dots in the top right corner
-3. Select "Custom repositories"
-4. Add the URL to the repository
-5. Select the Integration category
-6. Click the "ADD" button
-
-7. Click on HACS in the Home Assistant menu
-8. Click on `Integrations`
-9. Click the `EXPLORE & DOWNLOAD REPOSITORIES` button
-10. Search for `OpenEPaperLink`
-11. Click the `DOWNLOAD` button
-12. Restart Home Assistant
+2. Click on HACS in the Home Assistant menu
+3. Click on `Integrations`
+4. Click the `EXPLORE & DOWNLOAD REPOSITORIES` button
+5. Search for `OpenEPaperLink`
+6. Click the `DOWNLOAD` button
+7. Restart Home Assistant
 
 ### Manually:
 
